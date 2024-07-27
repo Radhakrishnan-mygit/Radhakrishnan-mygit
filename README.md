@@ -83,7 +83,8 @@ I have accomplished the following credentials:
 ## 🏗️ Projects
 Here are some of my notable projects:
 
-### Image Classification with Convolutional Neural Networks 🖼️
+### Machine Learning / Deep Learning Projects 🧠
+#### Image Classification with Convolutional Neural Networks 🖼️
 - **Objective**: Classify images from the CIFAR-10 dataset.
 - **Techniques Used**:
   - Convolutional Neural Networks (CNNs)
@@ -92,7 +93,7 @@ Here are some of my notable projects:
 - **Tools**: TensorFlow, Keras
 - **Metrics**: Accuracy, Precision, Recall
 
-### Credit Card Fraud Detection 💳
+#### Credit Card Fraud Detection 💳
 - **Objective**: Detect fraudulent credit card transactions.
 - **Techniques Used**:
   - Data preprocessing (normalization, handling imbalanced data)
@@ -100,7 +101,7 @@ Here are some of my notable projects:
 - **Tools**: Python, Scikit-learn
 - **Metrics**: ROC-AUC, F1-score
 
-### Heart Disease Prediction ❤️
+#### Heart Disease Prediction ❤️
 - **Objective**: Predict likelihood of heart disease based on patient data.
 - **Techniques Used**:
   - Data preprocessing, feature selection
@@ -108,13 +109,57 @@ Here are some of my notable projects:
 - **Tools**: Python, Scikit-learn
 - **Metrics**: Confusion Matrix, Cross-Validation
 
-### Real Estate Price Prediction 🏠
+#### Real Estate Price Prediction 🏠
 - **Objective**: Predict real estate prices based on features like location and square footage.
 - **Techniques Used**:
   - Feature engineering and data preprocessing
   - Regression techniques including Linear Regression, Ridge Regression, Lasso Regression
 - **Tools**: Python, Scikit-learn
 - **Metrics**: Mean Absolute Error (MAE), R-squared
+
+### UiPath Projects 🤖
+#### Invoice Extraction using Document Understanding
+- **Objective**: Automatically extract data from invoices using UiPath's Document Understanding capabilities.
+- **Techniques Used**:
+  - UiPath workflows
+  - Document Understanding models
+  - Integration with SQL databases
+- **Tools**: UiPath Studio, SQL Server
+- **Achievements**: Increased efficiency in processing invoices.
+
+#### Web Automation Integrating with SQL
+- **Objective**: Automate web interactions and integrate data with SQL databases.
+- **Techniques Used**:
+  - UiPath activities for web automation
+  - SQL database connectivity and query execution
+- **Tools**: UiPath Studio, SQL Server
+- **Achievements**: Improved data accuracy and workflow efficiency.
+
+#### Excel Automation with Oracle
+- **Objective**: Automate Excel tasks and integrate data with Oracle databases.
+- **Techniques Used**:
+  - UiPath activities for Excel automation
+  - Oracle database connectivity and data manipulation
+- **Tools**: UiPath Studio, Oracle Database
+- **Achievements**: Streamlined data processing and reporting.
+
+### Chatbot Projects 🤖
+#### Travel Airline Booking Bot using Kore.ai ✈️
+- **Objective**: Create a chatbot for booking airline tickets and managing travel details.
+- **Techniques Used**:
+  - Natural Language Understanding (NLU) using Kore.ai platform
+  - Integration with APIs, utterances, forms, channels, and intents
+- **Tools**: Kore.ai platform, APIs
+- **Achievements**: Enhanced customer experience in travel bookings.
+
+#### Restaurant Bot using Yellow.ai 🍽️
+- **Objective**: Develop a chatbot for booking restaurant rooms and ordering food.
+- **Techniques Used**:
+  - Natural Language Processing (NLP) using Yellow.ai platform
+  - Handling intents, entities, catalogs, and other channels
+- **Tools**: Yellow.ai platform
+- **Achievements**: Simplified restaurant reservations and food orders.
+
 
 ## 📫 Contact Me
 If you are interested in chatting with me, you can find me on [LinkedIn](https://www.linkedin.com/in/radhakrishnan-r-67474819b) or email me at knownradha7@gmail.com.
