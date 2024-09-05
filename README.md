@@ -38,7 +38,8 @@ I have expertise in the following:
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>&nbsp; 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRseqFOJ56MJM5XvU5CpeLzIeGxpvQ9pcoEAA&s" alt="uipath" width="80" height="80"/> &nbsp;
     <img src="https://mma.prnewswire.com/media/2329424/Kore_ai_Logo.jpg?p=facebook" alt="koreai" width="80" height="60"/> &nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="60" height="60"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="60" height="60"/> &nbsp;
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="60" height="60"/>
 </p>
 <br>
 
