@@ -27,44 +27,21 @@ I have expertise in the following:
 
 <br>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <a href="https://aws.amazon.com" target="blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.uipath.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRseqFOJ56MJM5XvU5CpeLzIeGxpvQ9pcoEAA&s" alt="uipath" width="60" height="60"/> 
-  </a> 
-  <a href="https://kore.ai" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://mma.prnewswire.com/media/2329424/Kore_ai_Logo.jpg?p=facebook" alt="koreai" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.abbyy.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" style="margin-right: 30;"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60" style="margin-right: 60"/>  &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" style="margin-right: 60"/>  &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> &nbsp;
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>&nbsp; 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRseqFOJ56MJM5XvU5CpeLzIeGxpvQ9pcoEAA&s" alt="uipath" width="80" height="80"/> &nbsp;
+    <img src="https://mma.prnewswire.com/media/2329424/Kore_ai_Logo.jpg?p=facebook" alt="koreai" width="80" height="60"/> &nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="60" height="60"/> 
-  </a> 
 </p>
 <br>
+
 
 ## 🌱 Certifications and Credentials
 I have accomplished the following credentials:
