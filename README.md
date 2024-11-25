@@ -55,6 +55,7 @@ I have accomplished the following credentials:
   - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/RadhakrishnanR-3474/76FF5E983C3C3E58?sharingId)
   - [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/records/A6FF69RD2XY3)
   - [Conversational AI Professional](https://www.credential.net/group/409135)
+  - [Uipath Certified Professional Automation Developer ](https://credentials.uipath.com/039cd3c3-7bcb-42d6-a535-ddd7b802d063)
   - [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/RadhakrishnanR-3474/B27BD8238EF7B7C6?sharingId=D5B6F5C378A26A6B)
   - [Automation Anywhere Certified Advanced RPA Professional](https://certificates.automationanywhere.com/ae7c9c9d-6a9f-49f8-85d6-93e4a518c090)
 
