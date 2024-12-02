@@ -16,11 +16,10 @@ I'm a passionate Software engineer from India! Here are some things about me:
 I have expertise in the following:
 
 - **Programming Languages**: Python, C#, SQL 🎓
-- **Technologies**: Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, NLP, Conversational AI, Cognitive Services, etc. 🚀
-- **Python Libraries**: Pandas, NumPy, PySpark, BeautifulSoup, etc. 🐍
+- **Technologies**: Genai, RAG, Ollama, GPT, Transformers, BERT, Machine Learning, Deep Learning, Neural Networks, NLP, Conversational AI, Cognitive Services, etc. 🚀
 - **RPA & OCR**: UiPath, Power Automate, Document Understanding, Abbyy FlexiCapture, Abbyy Vantage, etc. 🕸️
 - **Chatbot Tools**: Kore.ai, Yellow.ai 💻
-- **Cloud Services**: AWS, GCP, Azure ☁️
+- **Cloud Services**: AWS, GCP, Azure, Docker, Huggingface Spaces ☁️
 - **Cloud Computing**: Databricks 🚀
 - **BI Tools**: Tableau, Power BI, Plotly 📈
 - **Operating Systems**: Windows 💻
@@ -39,8 +38,9 @@ I have expertise in the following:
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRseqFOJ56MJM5XvU5CpeLzIeGxpvQ9pcoEAA&s" alt="uipath" width="80" height="80"/> &nbsp;
     <img src="https://mma.prnewswire.com/media/2329424/Kore_ai_Logo.jpg?p=facebook" alt="koreai" width="80" height="60"/> &nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="60" height="60"/> &nbsp;
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="60" height="60"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="60" height="60"/> &nbsp;
 </p>
+
 <br>
 
 
@@ -62,7 +62,48 @@ I have accomplished the following credentials:
 ## 🏗️ Projects
 Here are some of my notable projects:
 
-### Machine Learning / Deep Learning Projects 🧠
+# Generative AI Projects 🤖
+
+### Q-A-PDF-Table-Data-Extraction-using-Ollama-and-Gemini 📑
+- **Objective**: Extract table data from PDFs and enable retrieval-based question answering using LLaMA 3.1 and Gemini.
+- **Techniques Used**:
+  - **PDF Table Extraction**: Extract table data from PDFs using the **pdfplumber** Python package.
+  - **Sentence Embeddings**: Generate sentence embeddings for the extracted data using **Hugging Face's Sentence Transformers**.
+  - **Embedding Search**: Store and search embeddings using **FAISS** for efficient similarity-based searches.
+  - **Retrieval-based QA**: Leverage **LLaMA 3.1** for question answering based on retrieved embeddings.
+- **Tools**: Python, pdfplumber, Hugging Face, Sentence Transformers, FAISS, LLaMA 3.1, Ollama, Gemini
+- **Metrics**: Embedding Search Efficiency, QA Response Accuracy
+
+### SalesInsightBot: Extracting Insights from FMCG Sales Reports 📊
+- **Objective**: Extract and present key information from weekly/monthly FMCG sales reports in PDF format.
+- **Techniques Used**:
+  - OpenAI embeddings for data pre-processing and encoding
+  - LangChain for consolidating and segmenting reports
+  - Llama2 for generating high-quality text embeddings
+  - FAISS vector database for quick querying
+- **Tools**: Python, OpenAI, LangChain, Llama2, FAISS
+- **Metrics**: Query Accuracy, Relevance of Extracted Data
+
+### ReviewClassifier: Analyzing E-commerce Product Reviews for FMCG 🛍️
+- **Objective**: Classify and analyze e-commerce product reviews to help FMCG clients study product markets.
+- **Techniques Used**:
+  - NLP techniques for text segmentation and classification
+  - LSTM (Long Short-Term Memory) networks for sentiment analysis
+  - Topic modeling to identify key trends
+- **Tools**: Python, TensorFlow, NLTK, Scikit-learn
+- **Metrics**: Sentiment Accuracy, Topic Coherence
+
+### ProductImageCategorizer: Streamlining FMCG Inventory Management 📸
+- **Objective**: Classify FMCG product images into categories based on product type.
+- **Techniques Used**:
+  - VGG16 for image classification
+  - Data pre-processing to enhance image quality
+  - Deep neural network with optimizers and activation functions
+  - Dropout for model generalization
+- **Tools**: Python, TensorFlow, Keras
+- **Metrics**: Classification Accuracy, Model Robustness
+
+## Machine Learning / Deep Learning Projects 🧠
 #### Image Classification with Convolutional Neural Networks 🖼️
 - **Objective**: Classify images from the CIFAR-10 dataset.
 - **Techniques Used**:
@@ -96,7 +137,7 @@ Here are some of my notable projects:
 - **Tools**: Python, Scikit-learn
 - **Metrics**: Mean Absolute Error (MAE), R-squared
 
-### UiPath Projects 🤖
+## UiPath Projects 🤖
 #### Invoice Extraction using Document Understanding
 - **Objective**: Automatically extract data from invoices using UiPath's Document Understanding capabilities.
 - **Techniques Used**:
@@ -122,7 +163,7 @@ Here are some of my notable projects:
 - **Tools**: UiPath Studio, Oracle Database
 - **Achievements**: Streamlined data processing and reporting.
 
-### Chatbot Projects 🤖
+## Chatbot Projects 🤖
 #### Travel Airline Booking Bot using Kore.ai ✈️
 - **Objective**: Create a chatbot for booking airline tickets and managing travel details.
 - **Techniques Used**:
