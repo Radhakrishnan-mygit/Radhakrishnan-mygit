@@ -27,18 +27,20 @@ I have expertise in the following:
 <br>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img src="https://www.vectorlogo.zone/logos/gemini/gemini-ar21.svg" alt="gemini" width="150" height="60"/>&nbsp;
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="60" height="60"/> &nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="60" height="60"/> &nbsp;
     <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="60" height="60" style="margin-right:10%"/> &nbsp;
     <img src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="azure" width="60" height="60"/>  &nbsp;
     <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="gpt" width="100" height="60"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="gpt" width="100" height="60"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> &nbsp;
-    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mssql" width="120" height="90"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>&nbsp; 
-    <img src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo-small.png" alt="uipath" width="120" height="120"/> &nbsp;
-    <img src="https://mma.prnewswire.com/media/2329424/Kore_ai_Logo.jpg?p=facebook" alt="koreai" width="80" height="60"/> &nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="60" height="60"/> &nbsp;
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mssql" width="120" height="90"/> &nbsp; 
+    <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" alt="uipath" width="70" height="70"/> &nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="60" height="60"/>&nbsp;
+    <img src="https://kore-wordpress.s3.us-east-2.amazonaws.com/developer.kore.ai/wp-content/uploads/20210813113826/kore.ai_logo.svg" alt="koreai" width="100" height="70"/> &nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="80" height="60"/> &nbsp;
 </p>
+
 
 <br>
 
