@@ -36,8 +36,9 @@ I have expertise in the following:
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> &nbsp;
     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mssql" width="120" height="90"/> &nbsp; 
     <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" alt="uipath" width="70" height="70"/> &nbsp;
-    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="60" height="60"/>&nbsp;
-    <img src="https://kore-wordpress.s3.us-east-2.amazonaws.com/developer.kore.ai/wp-content/uploads/20210813113826/kore.ai_logo.svg" alt="koreai" width="100" height="70"/> &nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="60" height="60"/>&nbsp &nbsp &nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="60" style="margin-right: 50px;" />&nbsp &nbsp &nbsp;
+    <img src="https://kore-wordpress.s3.us-east-2.amazonaws.com/developer.kore.ai/wp-content/uploads/20210813113826/kore.ai_logo.svg" alt="koreai" width="100" height="70"/> &nbsp &nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmZ_INpUhZmuUkOBN5OPNOfDUmRfIncuEgXA2P76f3s9tmgn72fA55ykwA&s" alt="abbyy" width="80" height="60"/> &nbsp;
 </p>
 
